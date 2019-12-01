@@ -1,0 +1,38 @@
+ -¿Que es un sistema computacional?
+Es un sistema complejo que puede llegar a estar constituido por millones de componentes electronicos elementales.
+se puede entender tambien como un conjunto de dispositivos (Hardware) que interaccionan mediante conjunto de Instrucciones (Software)
+
+ -¿
+Creador de google?
+El estadounidense de Larry Page y el ruso Serguéi Brin, son los fundadores de esta magnífica empresa.
+En el año 1995, Page había finalizado sus estudios en la Universidad de Michigan y fue a hacer su posgrado en la Universidad de Stanford, California.
+En esta misma universidad se encuentra con Brin, de 21 años, quien era el encargado de enseñarle el campus.
+Sin siquiera saberlo, son ellos quienes dos años más tarde revolucionan el mundo con su invento, ¡Google!
+
+ -¿Que significa google?
+El término Google proviene de la palabra “Googol” (se pronuncia 'gúgol'), creada por el matemático norteamericano Edward Kasner y cuyo significado es diez elevado a cien. O dicho de un modo más profano: un uno seguido de cien ceros.
+
+ -¿
+Creador de WhatsApp?
+Jan Koum es el creador de WhatsApp y la persona que tuvo la idea originalmente, al que después se le uniría Brian Acton en la carrera por hacer popular su app en un momento en el que las aplicaciones móviles estaban dando todavía sus primeros pasos.
+WhatsApp nació en 2.009 e inicialmente no fue concebido como un servicio de mensajería. En un primer momento el servicio se centraba en los estados, en poder informar a los contactos si estábamos disponibles para una conversación o si estábamos ocupados. La comunicación, en ese momento, se realizaba a través de SMS.
+
+ -¿
+Siglas for
+?
+Traducido del idioma ingles significa "para"
+
+ -¿Que significa Java
+?
+Antes de contar con el nombre Java, este lenguaje se llamaba Oak (roble), el cual luego se cambió. Existen diversas teorías que tratan de explicar el origen del nombre Java.
+
+*Las iniciales de los nombres de sus creadores James Gosling, Arthur Van Hoff, y Andy Bechtolsheim (JAVA).
+*Un tipo de café que sus creadores solían tomar en sus ratos libres o cuando se encontraban trabajando.
+*El nombre de una isla de Indonesia de la cual provenía el café.
+*El acrónimo de la frase “Just Another Vague Acronym”.
+
+ -¿Mascota de java?
+Duke
+
+ -¿Internet de las cosas?
+nternet de las Cosas es una traducción de la expresión en inglés Internet of Things (IoT), que describe un escenario en el que diversas cosas están conectadas y se comunican. Esa innovación tecnológica tiene como objetivo conectar los ítems que usamos diariamente a internet, con el objetivo de aproximar cada vez más el mundo físico al digital.
